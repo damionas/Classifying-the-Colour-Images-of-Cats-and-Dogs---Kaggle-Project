@@ -32,3 +32,5 @@ PROCESS
 
 
 The graph suggest there is an overfitting in the model. With each Epoch as Accuracy is increasing , the validation accuracy is not increasing proportionally. 
+
+To fix the overfitting, some dummy data was created. Existing data are modified into different forms by applying zoom,shear
